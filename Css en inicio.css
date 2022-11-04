@@ -1,0 +1,75 @@
+/**/
+#title {
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    background-color: rgb(88, 31, 141);
+    margin-left: -12%;
+    margin-right: -0.6%;
+    margin-top: -1.1%;
+}
+
+#linkface {
+    padding-left: 76%;
+    margin-top: -4%;
+    color: rgb(255, 255, 255);
+
+}
+
+#linkinst {
+    padding-left: 66%;
+    margin-top: -2.75%;
+    color: rgb(255, 255, 255);
+
+}
+
+#linktwitter {
+    padding-left: 60%;
+    margin-top: -2.75%;
+    color: rgb(255, 255, 255);
+
+}
+
+#text {
+    color: black;
+    font-style: oblique;
+    margin-top: -60%;
+    padding-left: 0%;
+    padding-bottom: 0%;
+    padding-right: 52%;
+
+
+
+}
+
+#text2 {
+    color: black;
+    font-style: oblique;
+    padding-left: 0%;
+    padding-bottom: 20%;
+    padding-right: 52%;
+
+}
+
+#Ventanas {
+    color: rgb(0, 0, 0);
+    margin-left: 0%;
+
+    font-style: italic;
+}
+
+li {
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+    list-style-type: square;
+}
+
+#img {
+    text-align: right;
+}
+
+#piepagina {
+    padding-top: 40%;
+}
