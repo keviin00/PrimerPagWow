@@ -1,0 +1,94 @@
+/**/
+#encabezado{
+    background-color: rgb(88, 31, 141);
+    width: 102%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-left: -10px;
+    margin-right: 0px;
+}
+#titulo{
+    font-size: 200%;
+    font-style: oblique;
+    font-weight: 900;
+    margin-left: -900px;
+    }
+    #imgtop{
+        width: 87px;
+        margin-top: -33px;
+        margin-left: -4.5px;
+    
+    }
+    #face{
+        color: rgb(255, 255, 255);
+        padding-left: 620px;
+        margin-top: -70px;
+    
+    }
+    #inst{
+        color: rgb(255, 255, 255);
+        padding-left: 550px;
+        margin-top: -34px;
+    }
+    #twit{
+        color: rgb(255, 255, 255);
+        margin-top: -34px;
+        padding-left: 486px;
+    }
+    #descarga {
+        color: rgb(0, 0, 0);
+        padding-left: 620px;
+        margin-top: -34px;
+    }
+    
+    #inicio {
+        color: rgb(0, 0, 0);
+        padding-left: 560px;
+        
+    
+    }
+    #imgtop{
+        width: 87px;
+        margin-top: -33px;
+        margin-left: -4.5px;
+    
+    }
+    #subtitulo{
+        color: black;
+        font-size: 200%;
+        font-style: italic;
+        text-align: center;
+    }
+    #txt1{
+        color: black;
+        font-style: oblique;
+        padding-top: 50px;
+    }
+    #txt2{
+        color: black;
+        font-style: oblique;
+        padding-top: 50px;
+    }
+    #txt3{
+        color: black;
+        font-style: oblique;
+        padding-top: 50px;
+    }
+    #txt4{
+        color: black;
+        font-style: oblique;
+        padding-top: 50px;
+    }
+    #txt5{
+        color: black;
+        font-style: oblique;
+        padding-top: 50px;
+    }
+    #piepagina {
+        margin-top: 240px;
+        color: rgb(255, 255, 255);
+        background-color: rgb(88, 31, 141);
+        font-size: 150%;
+        font-style: oblique;
+       font-weight: 900;
+    }
