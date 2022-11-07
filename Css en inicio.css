@@ -9,27 +9,35 @@ body{
     background-color: rgb(88, 31, 141);
     margin-left: -8px;
     margin-right: -8px;
+    width: 101%;
+    
 }
+#imgtop{
+    margin-top: -35px;
+    width: 22%;
+    margin-left: -0.9%;
 
+
+}
 #linkface {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     margin-top: -60px;
-    padding-left: 636px;
+    padding-left: 626px;
     font-weight: 900;
 }
 
 #linkinst {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     margin-top: -34px;
-    padding-left: 600px;
+    padding-left: 580px;
     font-weight: 900;
 
 }
 
 #linktwitter {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     margin-top: -34px;
-    padding-left: 573px;
+    padding-left: 546px;
     font-weight: 900;
 
 }
@@ -39,7 +47,7 @@ body{
     font-style: oblique;
     margin-left: 0px;
     margin-right: 700px;
-    margin-top: -380px;
+    margin-top: -350px;
  
 
 
@@ -58,7 +66,7 @@ body{
 
 #Ventanas {
     color: rgb(255, 255, 255);
-    margin-top: 10px;
+    margin-top: 20px;
     font-style: initial;
     font-weight: 900;
     background-color: rgb(0, 0, 0);
@@ -74,15 +82,21 @@ padding-left: 700px;
 }
 
 #img {
-    margin-top: -190px;
-    margin-right: -8px; 
+    margin-top: -210px;
+    margin-right: -5px; 
     text-align: right;
 }
 
 #piepagina {
-    padding-top: 500px;
+    margin-top: 200px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(88, 31, 141);
+    font-size: 150%;
+    font-style: oblique;
+   font-weight: 900;
 }
 #nav{
-    padding-top: 4px;
+    margin-top: 20px;
     margin-left: -10px;
 }
+

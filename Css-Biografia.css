@@ -1,0 +1,80 @@
+/**/
+#titulo{
+    background-color: rgb(88, 31, 141);
+    text-align: center;
+    margin-left: -8px;
+    margin-right: -8px;
+    width: 101%;
+}
+#subtitulo{
+    color: rgb(255, 255, 255);
+    text-align: start;
+    padding-left: 110px;
+    
+}
+#ventanaI{
+    color: rgb(255, 255, 255);
+    padding-left: 620px;
+    
+    
+}
+#ventanaII{
+    color: rgb(255, 255, 255);
+    padding-left: 550px;
+    margin-top: -35px;
+}
+#face{
+    color: aliceblue;
+    padding-left: 620px;
+    margin-top: -60px;
+
+}
+#inst{
+    color: aliceblue;
+    padding-left: 540px;
+    margin-top: -35px;
+}
+#twit{
+    color: aliceblue;
+    padding-left: 470px;
+    margin-top: -34px;
+}
+#imgtop{
+width: 26%;  
+margin-left: -4px;
+margin-top: -35px;  
+}
+#titbio{
+    padding-top: 30px;
+    font-weight: 900;
+    font-size: xx-large;
+    font-style: normal;
+}
+#bio
+{
+    font-style: italic;
+    color: black;
+    padding-right: 770px;
+}
+#subtitulo2{
+    padding-left: 800px;
+    margin-top: -300px;
+}
+#video{
+  padding-left: 600px;
+  width: 730px;
+  height: 400px;
+}
+#piepagina {
+    margin-top: 200px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(88, 31, 141);
+    font-size: 150%;
+    font-style: oblique;
+   font-weight: 900;
+}
+#nav
+{
+    margin-left: -10px;
+    margin-top: -16px;
+}

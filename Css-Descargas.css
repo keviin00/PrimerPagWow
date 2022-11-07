@@ -1,0 +1,56 @@
+/**/
+#title{
+    background-color: rgb(88, 31, 141);
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-left: -10px;
+    
+
+}
+#titulo{
+font-size: 200%;
+font-style: oblique;
+font-weight: 900;
+margin-left: -400px;
+}
+#imgtop{
+    width: 87px;
+    margin-top: -33px;
+    margin-left: -4.5px;
+
+}
+#face{
+    color: rgb(255, 255, 255);
+    padding-left: 630px;
+    margin-top: -70px;
+
+}
+#inst{
+    color: rgb(255, 255, 255);
+    padding-left: 560px;
+    margin-top: -34px;
+}
+#twit{
+    color: rgb(255, 255, 255);
+    margin-top: -34px;
+    padding-left: 496px;
+}
+#inicio{
+    color: rgb(255, 255, 255);
+    padding-left: 640px;
+    padding-top: 0px;
+}
+#wow{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
+#piepagina {
+    margin-top: 200px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(88, 31, 141);
+    font-size: 150%;
+    font-style: oblique;
+   font-weight: 900;
+}
