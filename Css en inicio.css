@@ -49,17 +49,17 @@ body {
 
 #text {
     color: rgb(0, 0, 0);
-    font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     margin-top: -350px;
-    
+    font-size: 110%;
     font-weight: 900;
 
 }
 
 #text2 {
     color: rgb(0, 0, 0);
-    font-style: oblique;
-  
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 110%;
     font-weight: 900;
 }
 
@@ -103,12 +103,13 @@ body {
 
 #nav {
     margin-top: 20px;
-    margin-left: -10px;
+    padding-left: 87%;
 }
 
 #textofondo {
     background-image: url("https://thumbs.dreamstime.com/b/fondo-de-textura-una-pieza-antigua-o-papiro-un-viejo-pedazo-papel-206411898.jpg");
     width: 53%;
+    height: 65vh;
 
 
 }
