@@ -1,10 +1,15 @@
 /**/
+body {
+    background-image: url("https://images8.alphacoders.com/530/530873.jpg");
+
+}
 #title{
     background-color: rgb(88, 31, 141);
-    width: 100%;
-    text-align: center;
+    width: 95%;
+    text-align: start;
+    padding-left: 5%;
     color: rgb(255, 255, 255);
-    margin-left: -10px;
+    
     
 
 }
@@ -12,42 +17,46 @@
 font-size: 200%;
 font-style: oblique;
 font-weight: 900;
-margin-left: -400px;
+
 }
 #imgtop{
-    width: 87px;
-    margin-top: -33px;
-    margin-left: -4.5px;
+    width: 22%;
+    margin-top: -2.9%;
+    margin-left: 0%;
 
 }
 #face{
     color: rgb(255, 255, 255);
-    padding-left: 630px;
-    margin-top: -70px;
+    padding-left: 80%;
+    margin-top: -3.7%;
 
 }
 #inst{
     color: rgb(255, 255, 255);
-    padding-left: 560px;
-    margin-top: -34px;
+    padding-left: 70%;
+    margin-top: -1.9%;
 }
 #twit{
     color: rgb(255, 255, 255);
-    margin-top: -34px;
-    padding-left: 496px;
+    margin-top: -1.9%;
+    padding-left: 63%;
 }
 #inicio{
     color: rgb(255, 255, 255);
-    padding-left: 640px;
+    padding-left: 83%;
     padding-top: 0px;
 }
 #wow{
-    background-color: rgb(255, 255, 255);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY8nkwzdoq81scdw82wRsH5G-q-9HG3JHIr2YWwlsPBsj6m8VjVAd9b48tyYNqgMMQPpQ&usqp=CAU");
     color: rgb(0, 0, 0);
     font-weight: 900;
 }
+#fondotitulo{
+    background-image: url("https://thumbs.dreamstime.com/b/fondo-de-textura-una-pieza-antigua-o-papiro-un-viejo-pedazo-papel-206411898.jpg");
+    width: 20.5%;
+}
 #piepagina {
-    margin-top: 200px;
+    margin-top:24.6%;
     color: rgb(255, 255, 255);
     background-color: rgb(88, 31, 141);
     font-size: 150%;
