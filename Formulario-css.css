@@ -1,57 +1,59 @@
 /**/
 
 #titulo{
-    background-color: blueviolet;
+    background-color: rgb(88, 31, 141);
     text-align: center;
     font-size: 400%;
     margin-top: -1%;
+    width: 101.3%;
+    margin-left: -0.7%;
 }
 #linkface{
-color: rgb(255, 255, 255);
-padding-left: 81%;
-margin-top: -6.5%;
+color: rgb(0, 0, 0);
+padding-left: 80%;
+margin-top: -9.5%;
 }
 #linkinst{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding-left: 70%;
-    margin-top: -1.7%;
+    margin-top: -5%;
     }
 
 #linktwitter{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding-left: 63%;
-    margin-top: -1.8%;
+    margin-top: -5%;
 }
 main{
     margin-top: -1%;
-    background-image: url("https://images8.alphacoders.com/530/530873.jpg");
-    width: 100%;
-    height: 91vh;
+   background-image: url(https://giffiles.alphacoders.com/167/167487.gif);
+   background-position: center 25%;
+   background-size: cover;
+    width: 101.3%;
+    height: 162vh;
+    margin-left: -0.7%;
 
 }
 #nombre{
-    text-align: center;
-    font-size: 150%;
+    font-size: 140%;
     font-style: oblique;
-    padding-right: 10%;
+    padding-right: 19%;
 }
 #email{
-    text-align: center;
-    font-size: 150%;
+    font-size: 140%;
     font-style: oblique;
-    padding-right: 17.5%;
+    padding-right: 14%;
 }
 #contraseña{
-    text-align: center;
-    font-size: 150%;
+    font-size: 140%;
     font-style: oblique;
-    padding-right: 15.3%;
+    padding-right: 26%;
 }
 #terminos{
-    text-align: center;
-    font-size: 150%;
+    font-size: 140%;
     font-style: oblique;
-    padding-right: 5.1%;
+    text-align: center;
+    
 }
 #registrar{
     text-align: center;
@@ -66,4 +68,15 @@ main{
     font-size: 150%;
     font-style: oblique;
     font-weight: 900;
+    width: 101.3%;
+    margin-left: -0.7%;
+}
+
+#jumbo{
+    background-color: rgb(88, 31, 141);
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 40%;
+    width: 30%;
+    margin-top: -20%;
 }
